@@ -31,5 +31,3 @@ jobs:
         cd infra_project/
         # запустить написанные разработчиком тесты
         python manage.py test
-
-
